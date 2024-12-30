@@ -1,4 +1,4 @@
-openai
-python-dotenv
-requests
-replicate
+openai==1.9.0
+python-dotenv==1.0.1
+requests==2.9.2
+replicate==1.0.4
